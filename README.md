@@ -32,8 +32,6 @@ Application de bureau moderne développée avec **PyQt5** et **MySQL** pour la g
 
 Avant de lancer l'application, vous devez installer les modules suivants :
 
-```bash
-pip install PyQt5 mysql-connector-python
 Modules utilisés dans le projet :
 
 PyQt5
@@ -52,16 +50,12 @@ datetime, os, sys (inclus dans Python)
 
 🔧 Installation
 Cloner le dépôt :
-
-bash
-Copier
-Modifier
 git clone https://github.com/votre-nom-utilisateur/gestion-absences-bts.git
 cd gestion-absences-bts
-Installer les dépendances :
 
-bash
-pip install PyQt5 mysql-connector-python
+Installer les dépendances :
+Vous devez installer les modules suivants:
+   pip install PyQt5 mysql-connector-python
 
 Configurer la base de données :
    Créer une base de données nommée gestion_absences_BTS dans MySQL.
