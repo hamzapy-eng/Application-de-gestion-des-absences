@@ -50,7 +50,7 @@ datetime, os, sys (inclus dans Python)
 
 🔧 Installation
 Cloner le dépôt :
-git clone https://github.com/votre-nom-utilisateur/gestion-absences-bts.git
+git clone https://github.com/hamzapy-eng/gestion-absences-bts.git
 cd gestion-absences-bts
 
 Installer les dépendances :
